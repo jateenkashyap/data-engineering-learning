@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name": "Alice",
+        "role": "Data Engineer",
+        "salary": "75000",
+        "annual_bonus": "7500.0",
+        "is_high_earner": "False"
+    },
+    {
+        "id": "2",
+        "name": "Bob",
+        "role": "Data Analyst",
+        "salary": "65000",
+        "annual_bonus": "6500.0",
+        "is_high_earner": "False"
+    },
+    {
+        "id": "3",
+        "name": "Charlie",
+        "role": "Data Scientist",
+        "salary": "90000",
+        "annual_bonus": "9000.0",
+        "is_high_earner": "False"
+    },
+    {
+        "id": "4",
+        "name": "Diana",
+        "role": "Data Engineer",
+        "salary": "80000",
+        "annual_bonus": "8000.0",
+        "is_high_earner": "False"
+    }
+]

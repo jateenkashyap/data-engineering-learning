@@ -1,0 +1,5 @@
+id,name,role,salary,annual_bonus,is_high_earner
+1,Alice,Data Engineer,75000,7500.0,False
+2,Bob,Data Analyst,65000,6500.0,False
+3,Charlie,Data Scientist,90000,9000.0,False
+4,Diana,Data Engineer,80000,8000.0,False
